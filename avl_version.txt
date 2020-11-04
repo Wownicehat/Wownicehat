@@ -1,1 +1,1 @@
-{"version": "beta-7", "url": "https://mtxserv.com/forums/ressources/beta-avl-anti-cheats.2716/"}
+{"version": "beta-8", "url": "https://mtxserv.com/forums/ressources/beta-avl-anti-cheats.2716/"}
